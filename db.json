@@ -1,0 +1,19 @@
+{
+  "Usuarios": [
+    {
+      "nombre": "matias",
+      "contrasenia": "123456",
+      "corre": "",
+      "id": 1
+    },
+    {
+      "nombre": "juanito",
+      "contraseña": "123456",
+      "correo": "juanito@gmail.com",
+      "id": 2
+    }
+  ],
+  "Asistencia": [
+    {}
+  ]
+}
