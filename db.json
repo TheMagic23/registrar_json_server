@@ -1,8 +1,8 @@
 {
   "Usuarios": [
     {
-      "nombre": "matias",
-      "contrasenia": "123456",
+      "nombre": "",
+      "contrasenia": "",
       "corre": "",
       "id": 1
     }
